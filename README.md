@@ -1,14 +1,14 @@
 # Trip Tailor - Travel Website
 Welcome to Trip Tailor, a travel website landing page designed to showcase destinations and travel spots around the world
 
-# Features
+## Features
 Destination Showcase: Highlight popular travel destinations with descriptions and images.
 Responsive Design: Optimized for seamless browsing on all devices.
 Interactive Elements: JavaScript-powered features for enhanced user experience.
-# Demo
+## Demo
 Explore the live demo [Trip Tailor](https://iamvibhav.github.io/Trip-Tailor/)
 
-# Technologies Used
+## Technologies Used
 HTML
 CSS (including advanced styling techniques)
 JavaScript (for interactive elements and functionality)
