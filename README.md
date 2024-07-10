@@ -6,7 +6,7 @@ Destination Showcase: Highlight popular travel destinations with descriptions an
 Responsive Design: Optimized for seamless browsing on all devices.
 Interactive Elements: JavaScript-powered features for enhanced user experience.
 # Demo
-Explore the live demo [Trip Tailor](https://iamvibhav.github.io/Octanet_June_LandingPage/)
+Explore the live demo [Trip Tailor](https://iamvibhav.github.io/Trip-Tailor/)
 
 # Technologies Used
 HTML
